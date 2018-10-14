@@ -7,7 +7,7 @@
 My school is High School of Telecommunication of Arts and Technology.
 The things I like to hang out with my friends and family and do good in school.
 
-**My schedule is:**
+**My ```schedule``` is:**
 1. Studio Art
 2. Software engineering
 3. Physics
