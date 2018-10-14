@@ -3,7 +3,7 @@
 * My email is karenm0633@hstat.org.
  *  [This is my Sep 11 portfolio link, just link here !]( https://sites.google.com/a/hstat.org/karenm0633sep11/)
     *   You'll find all the work I've been working in  during my Junior Year
-   ### _There is a few things about me :_
+   ### _There is a few things about me :_  
 My school is High School of Telecommunication of Arts and Technology.
 The things I like to hang out with my friends and family and do good in school.
 
